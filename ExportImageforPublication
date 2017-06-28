@@ -1,0 +1,8 @@
+#Setup your scene and background color (black or white)
+
+ray 2400, 2400 
+#ray 576,576   for 8inch * 72dpi
+#ray 800,800   for 8inch * 100dpi; or a 4inch * 200 DPI photo; or 1x800.
+#ray 2400,2400 for 8inch * 300dpi; 6"x400dpi, etc...
+
+png filename, dpi=300 #This will generate a image of dpi@300 to your user folder
